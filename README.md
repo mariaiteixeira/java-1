@@ -10,7 +10,8 @@ Projeto desenvolvido pelo curso [Java: criando a sua primeira aplicação](https
 - Operadores (de atribuição, aritméticos, relacionais, lógicos e de incremento);
 - Algumas convenções comuns: classes tendo o **PascalCase**, métodos e variáveis com o **camelCase**, constantes com CAPS e _underline, linhas de código com no máximo 80 caracteres de largura;
 - Text blocks e como fazer comentários com o `//` e o `/* */`;
-- Ao comparar duas Strings com o método `==`, você está comparando se **elas apontam para o mesmo objeto na memória**. Para verificar se é o mesmo conteúdo contigo, use o método `equals()`;
+- Ao comparar duas Strings com o método `==`, você está comparando se **elas apontam para o mesmo objeto na memória**. Para verificar se é o mesmo conteúdo contigo, use o método `equals()`. Para ignorar a diferença de maiúsculas e minúsculas, use o `equalsIgnoreCase()`;
+- Método `format()` para formatar textos e o `formatted` para designar as variáveis;
 
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
