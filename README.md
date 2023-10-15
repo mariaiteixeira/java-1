@@ -6,7 +6,7 @@ Projeto desenvolvido pelo curso [Java: criando a sua primeira aplicação](https
 - História e origem do Java;
 - Aprendemos o que é o **JDK**, o **JRE**, a **JVM** e como ela funciona com o `.class`, a baixar e utilizar o IntelliJ IDEA;
 - `System.out.println`, que é um método para imprimir uma mensagem no console;
-- Variáveis `int`, `double`, `string` e `boolean`;
+- `int`, `double`, `string` e `boolean`;
 - Operadores (de atribuição, aritméticos, relacionais, lógicos e de incremento);
 - Algumas convenções comuns: classes tendo o **PascalCase**, métodos e variáveis com o **camelCase**, constantes com CAPS e _underline, linhas de código com no máximo 80 caracteres de largura;
 
