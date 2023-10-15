@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar sinopse de Top Gun">
-      <change afterPath="$PROJECT_DIR$/src/DesafioTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temperatura.java" afterDir="false" />
+    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar classes &quot;Temperatura&quot; e &quot;DesafioTemperatura&quot;">
+      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Temperatura">
+  <component name="RunManager" selected="Application.Condicional">
+    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Condicional" />
+      <module name="projeto_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DesafioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesafioTemperatura" />
       <module name="projeto_1" />
@@ -58,13 +63,6 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="projeto_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeiraClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeiraClasse" />
       <module name="projeto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Condicional" />
         <item itemvalue="Application.Temperatura" />
         <item itemvalue="Application.DesafioTemperatura" />
         <item itemvalue="Application.temperatura" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PrimeiraClasse" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697343478055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adicionar classes &quot;Temperatura&quot; e &quot;DesafioTemperatura&quot;">
+      <option name="closed" value="true" />
+      <created>1697346847724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697346847724</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionar arquivos iniciais" />
     <MESSAGE value="Adicionar sinopse de Top Gun" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionar sinopse de Top Gun" />
+    <MESSAGE value="Adicionar classes &quot;Temperatura&quot; e &quot;DesafioTemperatura&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionar classes &quot;Temperatura&quot; e &quot;DesafioTemperatura&quot;" />
   </component>
 </project>
