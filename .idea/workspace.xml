@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar arquivos iniciais">
+    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar sinopse de Top Gun">
+      <change afterPath="$PROJECT_DIR$/src/DesafioTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temperatura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -22,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -43,7 +48,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Temperatura">
+    <configuration name="DesafioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioTemperatura" />
+      <module name="projeto_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="projeto_1" />
@@ -58,8 +70,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temperatura" />
+      <module name="projeto_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temperatura" />
+      <module name="projeto_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Temperatura" />
+        <item itemvalue="Application.DesafioTemperatura" />
+        <item itemvalue="Application.temperatura" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PrimeiraClasse" />
       </list>
@@ -82,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697338318440</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adicionar sinopse de Top Gun">
+      <option name="closed" value="true" />
+      <created>1697343478055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697343478055</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionar arquivos iniciais" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionar arquivos iniciais" />
+    <MESSAGE value="Adicionar sinopse de Top Gun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionar sinopse de Top Gun" />
   </component>
 </project>
