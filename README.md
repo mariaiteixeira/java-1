@@ -13,6 +13,7 @@ Projeto desenvolvido pelo curso [Java: criando a sua primeira aplicação](https
 - Ao comparar duas Strings com o método `==`, você está comparando se **elas apontam para o mesmo objeto na memória**. Para verificar se é o mesmo conteúdo contigo, use o método `equals()`. Para ignorar a diferença de maiúsculas e minúsculas, use o `equalsIgnoreCase()`;
 - Método `format()` para formatar textos e o `formatted` para designar as variáveis;
 - Como converter um tipo de dado com o **casting**. O *implícito* é para valores que o dado de origem é compatível com o de destino. O *explícito* acontece quando o de origem é incompatível com o de destino;
+- **Switch case**;
 
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
