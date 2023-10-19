@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar classe &quot;Condicional&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
+    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar classe &quot;Leitura&quot;">
+      <change afterPath="$PROJECT_DIR$/src/ExemploScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploScannerMeu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,16 +47,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Leitura">
-    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condicional" />
+  <component name="RunManager" selected="Application.ExemploScannerMeu">
+    <configuration name="ExemploScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExemploScanner" />
       <module name="projeto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioTemperatura" />
+    <configuration name="ExemploScannerMeu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExemploScannerMeu" />
       <module name="projeto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploScannerMeu" />
+        <item itemvalue="Application.ExemploScanner" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Temperatura" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Condicional" />
-        <item itemvalue="Application.DesafioTemperatura" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697348162502</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adicionar classe &quot;Leitura&quot;">
+      <option name="closed" value="true" />
+      <created>1697681525717</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697681525717</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +161,7 @@
     <MESSAGE value="Adicionar sinopse de Top Gun" />
     <MESSAGE value="Adicionar classes &quot;Temperatura&quot; e &quot;DesafioTemperatura&quot;" />
     <MESSAGE value="Adicionar classe &quot;Condicional&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionar classe &quot;Condicional&quot;" />
+    <MESSAGE value="Adicionar classe &quot;Leitura&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionar classe &quot;Leitura&quot;" />
   </component>
 </project>
