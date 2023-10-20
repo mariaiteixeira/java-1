@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar classe &quot;Leitura&quot;">
-      <change afterPath="$PROJECT_DIR$/src/ExemploScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploScannerMeu.java" afterDir="false" />
+    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar classes &quot;ExemploScanner&quot; e &quot;ExemploScannerMeu&quot;">
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploScannerMeu">
+  <component name="RunManager" selected="Application.Loop">
     <configuration name="ExemploScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExemploScanner" />
       <module name="projeto_1" />
@@ -69,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
       <module name="projeto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.ExemploScannerMeu" />
         <item itemvalue="Application.ExemploScanner" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Temperatura" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697681525717</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adicionar classes &quot;ExemploScanner&quot; e &quot;ExemploScannerMeu&quot;">
+      <option name="closed" value="true" />
+      <created>1697684872210</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697684872210</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +169,7 @@
     <MESSAGE value="Adicionar classes &quot;Temperatura&quot; e &quot;DesafioTemperatura&quot;" />
     <MESSAGE value="Adicionar classe &quot;Condicional&quot;" />
     <MESSAGE value="Adicionar classe &quot;Leitura&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionar classe &quot;Leitura&quot;" />
+    <MESSAGE value="Adicionar classes &quot;ExemploScanner&quot; e &quot;ExemploScannerMeu&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionar classes &quot;ExemploScanner&quot; e &quot;ExemploScannerMeu&quot;" />
   </component>
 </project>
