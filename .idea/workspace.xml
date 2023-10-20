@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar classes &quot;ExemploScanner&quot; e &quot;ExemploScannerMeu&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+    <list default="true" id="44b13969-c7ab-4308-8e18-9f42337738e7" name="Changes" comment="Adicionar classe &quot;Loop&quot;">
+      <change afterPath="$PROJECT_DIR$/src/ContadorAlice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContadorAliceCorreto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContadorAliceFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JogoAdivinha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutroJogoAdivinha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loop">
+  <component name="RunManager" selected="Application.JogoAdivinha">
     <configuration name="ExemploScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExemploScanner" />
       <module name="projeto_1" />
@@ -61,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leitura" />
+    <configuration name="JogoAdivinha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JogoAdivinha" />
       <module name="projeto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temperatura" />
+    <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OutroLoop" />
       <module name="projeto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JogoAdivinha" />
+        <item itemvalue="Application.OutroLoop" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.ExemploScannerMeu" />
         <item itemvalue="Application.ExemploScanner" />
-        <item itemvalue="Application.Leitura" />
-        <item itemvalue="Application.Temperatura" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697684872210</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adicionar classe &quot;Loop&quot;">
+      <option name="closed" value="true" />
+      <created>1697836603531</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697836603531</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +183,7 @@
     <MESSAGE value="Adicionar classe &quot;Condicional&quot;" />
     <MESSAGE value="Adicionar classe &quot;Leitura&quot;" />
     <MESSAGE value="Adicionar classes &quot;ExemploScanner&quot; e &quot;ExemploScannerMeu&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionar classes &quot;ExemploScanner&quot; e &quot;ExemploScannerMeu&quot;" />
+    <MESSAGE value="Adicionar classe &quot;Loop&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionar classe &quot;Loop&quot;" />
   </component>
 </project>
