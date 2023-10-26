@@ -1,6 +1,6 @@
 # EM CONSTRUÇÃO! 🏗️
 
-Projeto desenvolvido pelo curso [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/course/java-criando-primeira-aplicacao), na plataforma da **[Alura](https://www.alura.com.br/)**.
+Projeto *em desenvolvimento* pelo curso [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/course/java-criando-primeira-aplicacao), na plataforma da **[Alura](https://www.alura.com.br/)**.
 
 ## Ao longo do projeto, as seguintes habilidades foram desenvolvidas:
 - História e origem do Java;
