@@ -1,6 +1,6 @@
 # EM CONSTRUÇÃO! 🏗️
 
-Projeto desenvolvido pelo curso [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/course/java-criando-primeira-aplicacao), na plataforma da **[Alura](https://www.alura.com.br/)**.
+Projeto *em desenvolvimento* pelo curso [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/course/java-criando-primeira-aplicacao), na plataforma da **[Alura](https://www.alura.com.br/)**.
 
 ## Ao longo do projeto, as seguintes habilidades foram desenvolvidas:
 - História e origem do Java;
@@ -14,6 +14,9 @@ Projeto desenvolvido pelo curso [Java: criando a sua primeira aplicação](https
 - Método `format()` para formatar textos e o `formatted` para designar as variáveis;
 - Como converter um tipo de dado com o **casting**. O *implícito* é para valores que o dado de origem é compatível com o de destino. O *explícito* acontece quando o de origem é incompatível com o de destino;
 - **Switch case**;
+- Uso do Scanner;
+- Loops com `for` e `while`;
+- Contadores (i++);
 
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
